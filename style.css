@@ -1,5 +1,5 @@
 .container {
-    min-width: 1440px !important;
+    min-width: 1200px !important;
 }
  /* Make the image fully responsive */
 .carousel-inner img {
@@ -34,11 +34,9 @@ p {
     /* height: 803px; */
     background-color: #f8f8f8;
 }
-.navbar-brand {
-    color: #012a68;
-}
+
 .nav-link {
-    margin: 0 15px;
+    margin: 0 8px;
     font-weight: normal;
     font-size: 14px;
     line-height: 21px;
