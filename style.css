@@ -30,7 +30,7 @@ p {
 }
 
 /*---------- Header section start ----------*/
-#header {
+#hero {
     /* height: 803px; */
     background-color: #f8f8f8;
 }
@@ -48,6 +48,10 @@ p {
     display: flex;
     justify-content: flex-start;
     overflow: hidden;
+}
+
+.text-box > h2 {
+    font-size: small;
 }
 /*---------- Header section end ----------*/
 
