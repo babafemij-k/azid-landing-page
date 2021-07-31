@@ -57,11 +57,7 @@ p {
 
 
 /*---------- Bio section start ----------*/
-.para-box {
-    /* height: 286px; */
-    width: 440px;
-    text-align: justify;
-}
+
 .bio img {
     width: 610px;
     height: 451px;
