@@ -207,3 +207,20 @@ h3 {
 .icon {
     margin-right: 30px;
 }
+
+/* Media Queries */
+
+/* For screens with width of 769px and above: landscape tablets */
+@media only screen and (min-width: 769px) {
+    
+}
+
+/* For screens with width of 992px and above: laptop/desktops */
+@media only screen and (min-width: 992px) {
+    
+}
+
+/* For screens with width of 1200px and above: large laptop/desktops */
+@media only screen and (min-width: 1200px) {
+    
+}
